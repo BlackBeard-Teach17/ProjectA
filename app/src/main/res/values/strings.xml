@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project A</string>
+
+    <string name="Athlete1">Keamogetswe Mfoloe</string>
+    <string name="Athlete2">Tshepo Phokoje</string>
+    <string name="Athlete3">Sello Bra Skhalo Mokone</string>
+    <string name="Athlete">Walter Mphela</string>
+    <string name="action_settings">Settings</string>
+</resources>
